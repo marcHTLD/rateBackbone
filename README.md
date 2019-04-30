@@ -1,9 +1,9 @@
 # rateBackbone
 
-Modular aufgebaut  views
+Modular aufgebaut --> views
 
-In das HTML Dokument des Projekts  JS-Files einbinden
-Ein JS-File bei mehreren View unübersichtlich  mehrere JS-Files
+In das HTML Dokument des Projekts --> JS-Files einbinden
+Ein JS-File bei mehreren View unübersichtlich --> mehrere JS-Files
 
 <script src="./jquery.js"></script>
     <script src="./json2.js"></script>
@@ -45,4 +45,4 @@ events: {
 •	Once
 •	listenTo …
 
-Schnell eingebunden ohne Framework zu erlernen  nicht geeignet für Dashboards
+Schnell eingebunden ohne Framework zu erlernen --> nicht geeignet für Dashboards
